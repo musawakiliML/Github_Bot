@@ -12,8 +12,9 @@ The Chatbot responds to users intent based on its command with either text or im
 
 ## Features
 
-    Get information about users
-    Get information about repo
+    Get information/search about users
+    Get information/search about repo
+    Search Topics, Issues, and Codes.
     Get Visualization on popularity and other metrics of repos/users
     Get notification when users pushes new repo, or
     Get notified when a repo is updated.
